@@ -1,7 +1,7 @@
 ### Hi 👋
 
-- 🚀 I’m currently working on a small JavaScript and SQL project
-- 🌱 I’m currently learning JS, React, Java, SQL, DBMS ... 
+- 🚀 I’m currently working on a small JavaScript and Sql project
+- 🌱 I’m currently learning JS, React, Java, Sql, DBMS ... 
 - 🤔 I’m looking for help with JavaFX
 - 💬 Ask me about anything! 
 - ⚡ Fun fact: I love my dog and plant-babies! :D
