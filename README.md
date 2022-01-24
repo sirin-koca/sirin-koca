@@ -1,5 +1,3 @@
-### Hi 👋
-
 - 🚀 I’m currently working on a small JavaScript and Sql project
 - 🌱 I’m currently learning JS, React, Java, Sql, DBMS ... 
 - 🤔 I’m looking for help with JavaFX
