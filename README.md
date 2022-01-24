@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JS, React, Java, Sql, DBMS ... 
 - 🤔 I’m looking for help with JavaFX
 - 💬 Ask me about anything! 
-- ⚡ Fun fact: I love my dog and plant-babies! :D
+- ⚡ Fun fact: I love my dog and my plant-babies! ♡
 
 <!--
 **sirin-koca/sirin-koca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
