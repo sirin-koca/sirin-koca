@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🔭 I’m currently working on a small JavaScript and SQL project
 - 🌱 I’m currently learning JS, React, Java, SQL, DBMS ... 
