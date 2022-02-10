@@ -1,5 +1,5 @@
 - 🚀 Currently working on: a small JavaScript and Sql project
-- 🌱 Currently learning: JS, React, Java, Sql, DBMS ... 
+- 🌱 Currently learning: JS, React, Java, Sql ... 
 - 🤔 Looking for help with JavaFX
 - 💬 Ask me anything! 
 - ⚡ Fun fact: I love my dog and my plant-babies! ♡
