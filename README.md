@@ -1,4 +1,4 @@
-- 🚀 Currently working on: a small SpringBoot roject
+- 🚀 Currently working on: a small SpringBoot project
 - 🌱 Currently learning: SpringBoot, React, SQL, MySQL ...
 - 💬 Ask me anything! 
 - ⚡ Fun fact: I love my dog and my plant-babies! ♡
