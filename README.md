@@ -1,6 +1,6 @@
 - 🚀 Currently working on: a small SpringBoot project
 - 🌱 Currently learning: SpringBoot, React, SQL, MySQL ...
-- ⚡ Fun fact: Big fan of JAVA & my dog Maya & my plant-babies! ♡
+- ⚡ Fun fact: Big fan of JAVA & my dog & my plant-babies! ♡
 - 💬 Ask me anything! 
 
 **Tools & Languages**
