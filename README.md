@@ -15,11 +15,8 @@
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
-
--
 ---
-<img src="https://raw.githubusercontent.com/sirin-koca/sirin-koca/main/java-explorer-oracle-sm.jpg" width="400">
+<img src="https://raw.githubusercontent.com/sirin-koca/sirin-koca/main/java-explorer-oracle-sm.jpg" width="300" align="right">
 
 
 
