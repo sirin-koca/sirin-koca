@@ -1,5 +1,5 @@
 - 🚀 Currently working on: a SpringBoot REST API project
-- ⚡ Currently learning: Spring, React, DBMS/ERD ...
+- ⚡ Currently learning: AlgDat, React, DBMS/ERD ...
 - 🌱 Fun fact: Big fan of Java & my dog & my plant-babies ♡
 - 💬 Ask me anything! 
 
