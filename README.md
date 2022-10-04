@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/sirin-koca/sirin-koca/main/java-explorer-oracle-sm.jpg" width="300" align="right">
 
 
-<a href="http://www.github.com/sirin-koca"><img src="https://github-readme-stats.vercel.app/api?username=sirin-koca&show_icons=true&hide=&count_private=true&title_color=FF00FF&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sirin's GitHub stats" /></a>
+<a href="http://www.github.com/sirin-koca"><img src="https://github-readme-stats.vercel.app/api?username=sirin-koca&show_icons=true&hide=&title_color=FF00FF&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sirin's GitHub stats" /></a>
 
 ---
 
