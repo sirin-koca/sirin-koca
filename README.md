@@ -19,7 +19,7 @@
 
 ---
 
-[![Sirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirin-koca&count_private=true&title_color=FF00FF&show_icons=true")](https://github.com/sirin-koca/github-readme-stats)
+[![Sirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirin-koca&count_private=true&title_color=FF00FF&show_icons=true")](https://github.com/sirin-koca)
 
 ---
 
