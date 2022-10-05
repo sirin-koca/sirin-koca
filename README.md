@@ -14,11 +14,10 @@
 	<a href="https://code.visualstudio.com/docs"><img alt="Visual Studio Code" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 	<a href="https://git-scm.com/"><img alt="Git" width="36" height="36" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /></a>
 	<a href="https://docs.github.com/en"><img alt="GitHub" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
+	<a href="https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726"><img alt="Oracle Java Explorer Badge" width="150" src="https://raw.githubusercontent.com/sirin-koca/sirin-koca/main/java-explorer-oracle-sm.jpg" /></a>
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/sirin-koca/sirin-koca/main/java-explorer-oracle-sm.jpg" width="300" align="right">
-
 
 [![Sirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirin-koca&count_private=true&title_color=FF00FF&show_icons=true")](https://github.com/sirin-koca/github-readme-stats)
 
