@@ -16,13 +16,12 @@
 	<a href="https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726"><img alt="Oracle Java Explorer Badge" width="150" align="right" src="https://raw.githubusercontent.com/sirin-koca/sirin-koca/main/java-explorer-oracle-sm.jpg" /></a>
 </p>
 
----
-
-[![Sirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirin-koca&count_private=true&title_color=FF00FF&show_icons=true")](https://github.com/sirin-koca)
-
----
 
 <!--
+------------------------------------------------------------------
+[![Sirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirin-koca&count_private=true&title_color=FF00FF&show_icons=true")](https://github.com/sirin-koca)
+------------------------------------------------------------------
+
 **sirin-koca/sirin-koca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
