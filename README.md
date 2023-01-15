@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,vscode,spring,bootstrap,jquery,mysql,heroku,kubernetes,docker,c" />
+  <a href="https://github.com/sirin-koca">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,vscode,spring,bootstrap,jquery,mysql,heroku,linux,kubernetes,docker,c" />
   </a>
 </p>
 
