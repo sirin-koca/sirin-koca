@@ -6,8 +6,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,java,python,git,mysql,vscode,spring,linux,kubernetes,docker,c" width="600" />
   </a>
 </p>
-  
-<a href="https://github.com/sirin-koca/sirin-koca/blob/main/CV-Sirin.pdf" target="_blank">My online resume</a>
 </div>
 </body>
 </html>
