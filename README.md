@@ -1,8 +1,26 @@
-<p align="left">
+<html>
+<body>
+<div>
+  <p align="left">
   <a href="https://github.com/sirin-koca">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,java,python,git,mysql,vscode,spring,linux,kubernetes,docker,c" width="600" />
   </a>
 </p>
+  
+<a href="https://github.com/sirin-koca/sirin-koca/blob/main/CV-Sirin.pdf" target="_blank">My online resume</a>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
 
 <!----------------------------------------------------------------
 [![Sirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirin-koca&count_private=true&title_color=FF00FF&show_icons=true")](https://github.com/sirin-koca)
