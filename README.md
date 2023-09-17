@@ -3,7 +3,7 @@
 <div>
   <p align="left">
   <a href="https://github.com/sirin-koca">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,java,python,git,mysql,vscode,spring,linux,kubernetes,docker,c" width="600" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,java,python,git,mysql,vscode,visualstudio,linux,azure,docker,c" width="500" />
   </a>
 </p>
 </div>
