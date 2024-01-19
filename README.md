@@ -1,36 +1,9 @@
-<html>
-<body>
-<div>
-  <p align="left">
-  <a href="https://github.com/sirin-koca">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,mysql,mongodb,vscode,visualstudio,linux,azure,docker,tensorflow,pytorch" width="500" />
-  </a>
-</p>
-</div>
-</body>
-</html>
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,java,python,git,bash,mysql,mongodb,vscode,visualstudio,azure,docker,tensorflow,pytorch)
+
+- 🔭 Currently working on a machine learning and data science project.
+- 🌱 Currently learning NoSQL, VectorDB, and REST API.
+- 🤔 Looking for help with FAISS (Facebook AI Similarity Search).
+- 💬 Ask me about anything.
+- ⚡ Fun fact: Dogmom 💗
 
 
-
-
-
-
-
-
-
-
-
-<!----------------------------------------------------------------
-[![Sirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirin-koca&count_private=true&title_color=FF00FF&show_icons=true")](https://github.com/sirin-koca)
-------------------------------------------------------------------
-
-**sirin-koca/sirin-koca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a small JavaScript and SQL project
-- 🌱 I’m currently learning JS, SQL, NoSQL, DBMS, OOP-
-- 🤔 I’m looking for help with JavaFX
-- 💬 Ask me about anything
-- ⚡ Fun fact: I adore my dog! :D
--->
