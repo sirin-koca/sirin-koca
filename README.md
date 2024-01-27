@@ -1,4 +1,4 @@
-![Tech Stack](https://skillicons.dev/icons?i=java,python,nodejs,gitlab,bash,mysql,vscode,visualstudio,azure,linux,tensorflow,pytorch&theme=light)
+![Tech Stack](https://skillicons.dev/icons?i=java,python,linux,nodejs,gitlab,bash,mysql,vscode,visualstudio,azure,tensorflow,pytorch&theme=light)
 
 - Currently working on: a machine learning and data science project.
 - Currently learning: NoSQL, VectorDB, and Streamlit.
