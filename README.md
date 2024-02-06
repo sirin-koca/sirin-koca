@@ -2,7 +2,7 @@
 
 - Currently working on: a machine learning and data science project.
 - Currently learning: NoSQL, VectorDB, Plotly Dash and Streamlit.
-- Looking for help with FAISS (Facebook AI Similarity Search).
+- Looking for help with similarity search.
 - Ask me about anything.
 - Fun fact: Dogmom 💗
 
