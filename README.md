@@ -6,6 +6,6 @@
 - Microsoft Certified: Azure AI Fundamentals, GenAI Essentials
 - IBM Certified: Data Science Fundamentals
 - Axelos Certified: Agile Project Management 
-- Fun fact: Dogmom 💗
+- Funfact: Dogmom 💗
 
 
