@@ -7,6 +7,6 @@
 - Microsoft Certified: Generative AI Essentials
 - IBM Certified: Data Science Fundamentals
 - Axelos Certified: Agile Project Management 
-- Funfact: Dogmom 💗
+- Proud dogmom 💗
 
 
