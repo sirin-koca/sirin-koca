@@ -2,7 +2,7 @@
 
 - Current focus: Distributed Java RMI API | RAG with LLMs | Privacy & Security Engineering
 - Interests : AI applications, Blockchain, Cybersecurity, high-risk systems, ethical hacking, architectural frameworks
-- Certified: MS Azure AI Fundamentals, MS Generative AI Essentials, IBM Data Science Fundamentals, Axelos Agile Project Management 
+- Certified: MS Azure AI Fundamentals, MS Generative AI Essentials, IBM Data Science Fundamentals, Axelos Agile PM
 - Dogmom 💗
 
 
