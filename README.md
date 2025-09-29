@@ -15,7 +15,7 @@
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2024/H%C3%98ST">Algorithms &amp; Data Structures</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2500/2024/H%C3%98ST">Operating Systems</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1300/2024/H%C3%98ST">Discrete Mathematics</a><br>
-      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2410/2024/H%C3%98ST">Networking &amp; Cloud Computing</a><br>
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2410/2024/H%C3%98ST">Net. &amp; Cloud Computing</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3100/2024/H%C3%98ST">Computer Security</a><br>       
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1200/2024/H%C3%98ST">Inclusive Web Development</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3200/2024/H%C3%98ST">Web Applications</a><br>
