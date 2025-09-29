@@ -1,6 +1,6 @@
 <table width=100%>
   <tr>
-    <td width="40%" valign="top"> 
+    <td width="40%"> 
       <img src="https://skillicons.dev/icons?i=html,css,java,python,nodejs&amp;theme=light" alt="Tech Stack row 1">
     </td>
      <td valign="top" rowspan="3"> 
