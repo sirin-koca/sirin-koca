@@ -1,9 +1,9 @@
 <table width=100%>
   <tr>
-    <td>
+    <td width="40%" valign="top"> 
       <img src="https://skillicons.dev/icons?i=html,css,java,python,nodejs&amp;theme=light" alt="Tech Stack row 1">
     </td>
-     <td width="25%" valign="top" rowspan="3"> 
+     <td valign="top" rowspan="3"> 
       <details>     
       <summary><b>BSc. Courses</b></summary>      
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2024/H%C3%98ST">Bachelor's thesis: Data Science Project</a><br>      
@@ -26,7 +26,7 @@
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ADSE2100/2024/H%C3%98ST">Human Machine Interaction</a><br>
       </details>
     </td>
-      <td width="25%" valign="top" rowspan="3">
+      <td valign="top" rowspan="3">
       <details>               
        <summary><b>MSc. Courses</b></summary><br>
       <a href="">Distributed Systems</a><br>
@@ -38,7 +38,7 @@
       <a href="">Master Thesis (60 ETC)</a>
       </details>
     </td>
-     <td width="25%" valign="top" rowspan="3">
+     <td width="20%" valign="top" rowspan="3">
       <details>               
        <summary><b> About </b></summary><br>
         <ul>
