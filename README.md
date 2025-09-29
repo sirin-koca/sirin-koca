@@ -26,7 +26,7 @@
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ADSE2100/2024/H%C3%98ST">Human Machine Interaction</a><br>
       </details>
     </td>
-      <td width="25%" valign="top" rowspan="3">
+      <td width="22%" valign="top" rowspan="3">
       <details>               
        <summary><b>MSc. Courses</b></summary>
       <a href="">Distributed Systems</a><br>
