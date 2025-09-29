@@ -38,7 +38,7 @@
       <a href="">Master Thesis (60 ETC)</a>
       </details>
     </td>
-     <td width="15%" valign="top" rowspan="3">
+     <td width="20%" valign="top" rowspan="3">
       <details>               
        <summary><b> About </b></summary><br>
         <ul>          
