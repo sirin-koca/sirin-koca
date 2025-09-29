@@ -1,12 +1,5 @@
 <table>
-  <tr><td colspan="3">
-    <ul>
-      <li><sub>MSc. Informatics – Systems Architecture (UiO - University of Oslo)</sub></li>
-      <li><sub>Current:</b> Distributed systems, Java RMI API, RAG, Privacy &amp; Security Engineering</sub></li>
-      <li><sub>Interests:</b> AI applications, Cybersecurity, Ethical hacking, Architectural frameworks, Systems design</sub></li>
-      <li><sub>Certified:</b> MS Azure AI Fundamentals, MS Generative AI Essentials, IBM Data Science Fundamentals, Axelos Agile PM</sub></li>
-    </ul>
-  </td></tr>
+  <tr><td colspan="3"> </td></tr>
   <tr>
     <td>
       <img src="https://skillicons.dev/icons?i=html,css,java,python,nodejs&amp;theme=light" alt="Tech Stack row 1">
