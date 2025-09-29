@@ -6,27 +6,27 @@
     </td>
     <td valign="top" rowspan="3">      
      <sub><b>BSc. IT Courses (180 ECT)</b><br>
-      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2024/H%C3%98ST">Bachelor's thesis: Applied AI - Data Science Project (TabulAI)</a><br>
-      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ADTS1600/2023/H%C3%98ST">Interaction Design &amp; Prototyping</a><br>
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2024/H%C3%98ST">Bachelor's thesis: Data Science Project</a><br>      
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3750/2024/H%C3%98ST">Applied Artificial Intelligence &amp; Data Science Project</a><br>       
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DAFE2200/2024/H%C3%98ST">Software Engineering</a><br>
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1400/2024/H%C3%98ST">Programming (OOP)</a>  
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1500/2024/H%C3%98ST">Databases</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3740/2024/H%C3%98ST">IT Innovation &amp; Entrepreneurship Project</a><br>
-      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3750/2024/H%C3%98ST">Applied Artificial Intelligence &amp; Data Science Project</a><br>
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2024/H%C3%98ST">Algorithms &amp; Data Structures</a><br>
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2500/2024/H%C3%98ST">Operating Systems</a><br>
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1300/2024/H%C3%98ST">Discrete Mathematics</a><br>
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2410/2024/H%C3%98ST">Networking &amp; Cloud Computing</a><br>
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3100/2024/H%C3%98ST">Computer Security</a><br>       
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1200/2024/H%C3%98ST">Inclusive Web Development</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3200/2024/H%C3%98ST">Web Applications</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ADSE1310/2024/H%C3%98ST">Internet of Things (IoT)</a><br>
-      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1300/2024/H%C3%98ST">Discrete Mathematics</a><br>
-      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2410/2024/H%C3%98ST">Networking &amp; Cloud Computing</a><br>
-      <a href="">Human Machine Interaction</a><br>
-      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ITPE3100/2024/H%C3%98ST">Computer Security</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1700/2024/H%C3%98ST">Web Programming</a><br>
-      <a href="">Algorithms &amp; Data Structures</a><br>
-      <a href="">Operating Systems</a><br>
-      <a href="">Technology, Society &amp; Ethics</a><br>
-      <a href="">Programming (OOP)</a>
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1100/2025/H%C3%98ST">Technology, Society &amp; Ethics</a><br>    
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ADTS1600/2023/H%C3%98ST">Interaction Design &amp; Prototyping</a><br>
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ADSE2100/2024/H%C3%98ST">Human Machine Interaction</a><br>
       </sub>
     </td>
-     <td width="20%" valign="top" rowspan="3">
+     <td valign="top" rowspan="3">
      <sub><b>MSc. Courses (120 ECT)</b><br>
       <a href="">Distributed Systems</a><br>
       <a href="">Network Security</a><br>
