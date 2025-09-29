@@ -28,7 +28,7 @@
     </td>
       <td width="25%" valign="top" rowspan="3">
       <details>               
-       <summary><b>MSc. Courses</b></summary><br>
+       <summary><b>MSc. Courses</b></summary>
       <a href="">Distributed Systems</a><br>
       <a href="">Network Security</a><br>
       <a href="">Privacy Engineering</a><br>
@@ -40,7 +40,7 @@
     </td>
      <td width="20%" valign="top" rowspan="3">
       <details>               
-       <summary><b> About </b></summary><br>
+       <summary><b> About </b></summary>
         <ul>          
           <li><sub>Current: Distributed systems, Java RMI API, Privacy & Security Engineering</sub></li>
           <li><sub>Interests: AI applications, Cybersecurity, Ethical hacking, Architectural frameworks, Systems design</sub></li>
