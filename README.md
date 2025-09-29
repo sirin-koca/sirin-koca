@@ -3,7 +3,7 @@
 <ul>
   <li>MSc. Informatics – Systems Architecture (UiO - University of Oslo)</li>
   <li>Current:</b> Distributed systems, Java RMI API, RAG, Privacy &amp; Security Engineering</li>
-  <li>Interests:</b> AI applications, Cybersecurity, High-risk systems, Ethical hacking, Architectural frameworks, Systems design</li>
+  <li>Interests:</b> AI applications, Cybersecurity, Ethical hacking, Architectural frameworks, Systems design</li>
   <li>Certified:</b> MS Azure AI Fundamentals, MS Generative AI Essentials, IBM Data Science Fundamentals, Axelos Agile PM</li>
 </ul>
   </td></tr>
