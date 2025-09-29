@@ -1,4 +1,4 @@
-<table>
+<table width=100%>
   <tr>
     <td>
       <img src="https://skillicons.dev/icons?i=html,css,java,python,nodejs&amp;theme=light" alt="Tech Stack row 1">
