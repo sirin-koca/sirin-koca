@@ -1,12 +1,11 @@
 <table>
-  <tr><td colspan="3"> </td></tr>
   <tr>
     <td>
       <img src="https://skillicons.dev/icons?i=html,css,java,python,nodejs&amp;theme=light" alt="Tech Stack row 1">
     </td>
-    <td valign="top" rowspan="3">   
+     <td width="25%" valign="top" rowspan="3"> 
       <details>     
-      <summary><b>BSc. IT Courses (180 ECT)</b></summary>      
+      <summary><b>BSc. Courses</b></summary>      
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2024/H%C3%98ST">Bachelor's thesis: Data Science Project</a><br>      
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3750/2024/H%C3%98ST">Applied Artificial Intelligence Project</a><br>       
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DAFE2200/2024/H%C3%98ST">Software Engineering</a><br>
@@ -27,9 +26,9 @@
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/ADSE2100/2024/H%C3%98ST">Human Machine Interaction</a><br>
       </details>
     </td>
-     <td valign="top" rowspan="3">
+      <td width="25%" valign="top" rowspan="3">
       <details>               
-       <summary><b>MSc. Courses (120 ECT)</b></summary><br>
+       <summary><b>MSc. Courses</b></summary><br>
       <a href="">Distributed Systems</a><br>
       <a href="">Network Security</a><br>
       <a href="">Privacy Engineering</a><br>
@@ -37,6 +36,15 @@
       <a href="">Software Testing</a><br>
       <a href="">IT Management</a><br>
       <a href="">Master Thesis (60 ETC)</a>
+      </details>
+    </td>
+     <td width="25%" valign="top" rowspan="3">
+      <details>               
+       <summary><b> About </b></summary><br>
+        <ul>
+          <li>Current: Distributed systems, Java RMI API, Privacy & Security Engineering</li>
+          <li>Interests: AI applications, Cybersecurity, High-risk systems, Ethical hacking, Architectural frameworks, Systems design</li>
+          <li>Certified: MS Azure AI Fundamentals, IBM Cybersecurity & Machine Learning, MS Generative AI Essentials, IBM Data Science Fundamentals, Axelos Agile PM</li>        
       </details>
     </td>
   </tr>
