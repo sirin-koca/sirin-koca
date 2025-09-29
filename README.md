@@ -42,9 +42,9 @@
       <details>               
        <summary><b> About </b></summary>
         <ul>          
-          <li><sub>Current: Distributed systems, Java RMI API, Privacy & Security Engineering</sub></li>
-          <li><sub>Interests: AI applications, Cybersecurity, Ethical hacking, Architectural frameworks, Systems design</sub></li>
-          <li><sub>Certified: MS Azure AI Fundamentals, IBM Cybersecurity & Machine Learning, MS Generative AI Essentials, IBM Data Science Fundamentals, Axelos Agile PM</sub></li>   
+          <li><sub><b>Certified</b>: MS Azure AI Fundamentals, IBM Cybersecurity & Machine Learning, MS Generative AI Essentials, IBM Data Science Fundamentals, Axelos Agile PM</sub></li>
+          <li><sub><b>Current</b>: Distributed systems, Java RMI API, Privacy & Security Engineering</sub></li>
+          <li><sub><b>Interests</b>: AI applications, Cybersecurity, Ethical hacking, Architectural frameworks, Systems design</sub></li>   
       </details>
     </td>
   </tr>
