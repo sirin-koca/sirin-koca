@@ -6,12 +6,12 @@
      <td width="30%" valign="top" rowspan="3"> 
       <details>     
       <summary><b>BSc. Courses</b></summary>      
-      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2024/H%C3%98ST">Bachelor's thesis: Data Science Project</a><br>      
-      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3750/2024/H%C3%98ST">Applied Artificial Intelligence Project</a><br>       
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3900/2024/H%C3%98ST">Bachelor's thesis: Data Science</a><br>      
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3750/2024/H%C3%98ST">Applied Artificial Intelligence</a><br>       
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DAFE2200/2024/H%C3%98ST">Software Engineering</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1400/2024/H%C3%98ST">Programming (OOP)</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA1500/2024/H%C3%98ST">Databases</a><br>
-      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3740/2024/H%C3%98ST">IT Innovation &amp; Entrepreneurship Project</a><br>
+      <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA3740/2024/H%C3%98ST">IT Innovation &amp; Entrepreneurship</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2024/H%C3%98ST">Algorithms &amp; Data Structures</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DATA2500/2024/H%C3%98ST">Operating Systems</a><br>
       <a href="https://student.oslomet.no/en/studier/-/studieinfo/emne/DAPE1300/2024/H%C3%98ST">Discrete Mathematics</a><br>
