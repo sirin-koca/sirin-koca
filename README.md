@@ -1,3 +1,13 @@
+|🛠 Skills & Tools| | | 
+|-----------------|---------------------------------------------------|----------------------------------|
+| **Programming** | Python, Java, JavaScript, SQL                     | Fullstack, OOP, Data pipelines   |
+| **AI & Data**   | TensorFlow, PyTorch, HuggingFace, Pandas, Numpy, Sklearn   | RAG, ML workflows, Data visualization |
+| **Cloud & DevOps** | Azure (cert.), GCP (basic), Docker             | CI/CD with GitHub Actions        |
+| **Security & GRC** | Privacy Eng., Network Security, GDPR, Compliance & Risk Management| MSc specialization focus         |
+
+
+
+
 ![Tech Stack](https://skillicons.dev/icons?i=java,python,nodejs,bash,linux,mysql,git,azure,docker,kubernetes,tensorflow,pytorch&theme=light)
 
 - Current focus: Distributed Java RMI API | RAG with LLMs | Privacy & Security Engineering
@@ -25,3 +35,4 @@
 - [Operating Systems]()
 - [Technology, Society & Ethics]()
 - [Programming (OOP)]()
+
