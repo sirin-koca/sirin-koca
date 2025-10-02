@@ -41,10 +41,18 @@
      <td width="20%" valign="top" rowspan="3">
       <details>               
        <summary><b> About </b></summary>
-        <ul>          
-          <li><sub><b>Certified</b>: MS Azure AI Fundamentals, IBM Cybersecurity & Machine Learning, MS Generative AI Essentials, IBM Data Science Fundamentals, Axelos Agile PM</sub></li>
+        <ul>   
+          <li><sub><b>Certified:</b></sub> 
+            <ul>
+            <li><sub>MS Azure AI Fundamentals</sub></li>
+            <li><sub>IBM Cybersecurity & Machine Learning</sub></li> 
+            <li><sub>MS Generative AI Essentials</sub></li>
+            <li><sub>IBM Data Science Fundamentals</sub></li>
+            <li><sub>Axelos Agile PM</sub></li>
+            </ul>
           <li><sub><b>Current</b>: Distributed systems, Java RMI API, Privacy & Security Engineering</sub></li>
           <li><sub><b>Interests</b>: AI applications, Cybersecurity, Ethical hacking, Architectural frameworks, Systems design</sub></li>   
+        </ul>       
       </details>
     </td>
   </tr>
