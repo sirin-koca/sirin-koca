@@ -50,8 +50,7 @@
             <li><sub>IBM Data Science Fundamentals</sub></li>
             <li><sub>Axelos Agile PM</sub></li>
             </ul>
-          <li><sub><b>Current</b>: Distributed systems, Java RMI API, Privacy & Security Engineering</sub></li>
-          <li><sub><b>Interests</b>: Applied AI, Cybersecurity, Ethical hacking, Architectural frameworks</sub></li>   
+          <li><sub><b>Current</b>: Software Testing, IT Management, Distributed systems, Privacy & Security Engineering, Applied AI, Ethical hacking, Architectural frameworks</sub></li>
         </ul>       
       </details>
     </td>
