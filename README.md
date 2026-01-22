@@ -29,13 +29,13 @@
       <td width="22%" valign="top" rowspan="3">
       <details>               
        <summary><b>MSc. Courses</b></summary>
-      <a href="">Distributed Systems</a><br>
-      <a href="">Network Security</a><br>
-      <a href="">Privacy Engineering</a><br>
-      <a href="">Ethical Hacking</a><br>
-      <a href="">Software Testing</a><br>
-      <a href="">IT Management</a><br>
-      <a href="">Master Thesis (60 ETC)</a>
+      <a href="https://www.uio.no/studier/emner/matnat/ifi/IN5020/">Distributed Systems</a><br>
+      <a href="https://www.uio.no/studier/emner/matnat/ifi/IN4210/">Network Security</a><br>
+      <a href="https://www.uio.no/studier/emner/matnat/ifi/IN5540/">Privacy Engineering</a><br>
+      <a href="https://www.uio.no/studier/emner/matnat/ifi/IN5290/">Ethical Hacking</a><br>
+      <a href="https://www.uio.no/studier/emner/matnat/ifi/IN4240/">Software Testing</a><br>
+      <a href="https://www.uio.no/studier/emner/matnat/ifi/IN5431/">IT Management</a><br>
+      <a href="https://www.sintef.no/en/sintef-research-areas/artificial-intelligence/">Master Thesis (60 ETC)</a>
       </details>
     </td>
      <td width="20%" valign="top" rowspan="3">
