@@ -32,7 +32,7 @@
       <a href="https://www.uio.no/studier/emner/matnat/ifi/IN5020/">Distributed Systems</a><br>
       <a href="https://www.uio.no/studier/emner/matnat/ifi/IN4210/">Network Security</a><br>
       <a href="https://www.uio.no/studier/emner/matnat/ifi/IN5540/">Privacy Engineering</a><br>
-      <a href="https://www.uio.no/studier/emner/matnat/ifi/IN5290/">Ethical Hacking</a><br>
+      <a href="https://www.uio.no/studier/emner/matnat/ifi/IN5700/">Cloud and Edge Computing</a><br>
       <a href="https://www.uio.no/studier/emner/matnat/ifi/IN4240/">Software Testing</a><br>
       <a href="https://www.uio.no/studier/emner/matnat/ifi/IN5431/">IT Management</a><br>
       <a href="https://www.sintef.no/en/sintef-research-areas/artificial-intelligence/">Master Thesis (60 ETC)</a>
